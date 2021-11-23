@@ -15,5 +15,5 @@ Other characters (e.g Amy, Metal Sonic etc.) (link is in the description):
 https://youtu.be/Ac-EQ2coB3M
 
 
-#Play here
-<li><a href="/week7"<p style="color:black">Play</a></li>
+# Play here
+<li><a href="https://blockbreaker177.github.io/FNFSonicMod/week7"<p style="color:black">Play</a></li>
